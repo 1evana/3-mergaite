@@ -8,11 +8,15 @@ Site published at: https://1evana.github.io/3-mergaite/
 Design: [Mergaitė](https://cdn.discordapp.com/attachments/648536139677958156/648860692459290634/unknown.png)
 
 ## Project objectives
-
 - Create simple HTML page from provided design
 - Learn to use Markdown
 - Learn to use .gitignore
 
+## Project features
+- Github pages
+- Desktop only
+- Fixed width content
+- Transparent images (.png)
 
 
 ## Authors
